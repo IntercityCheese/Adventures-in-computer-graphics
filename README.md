@@ -1,2 +1,2 @@
 # Adventures-in-computer-graphics
-A collection of what i've been working in the field of computer graphics. Might be interesting to some maybe.
+A documentation of my explorations of the field of computer graphics. [Insert what I learnt here] .Currently empty as I am still working on most of these individual components.
